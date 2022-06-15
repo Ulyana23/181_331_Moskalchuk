@@ -1,3 +1,0 @@
-C:\Users\slavk\source\repos\Windows-driver-samples-test\filesys\miniFilter\passThrough\x64\Debug\passThrough.sys
-D:\Notebook\NEKO\Windows-driver-samples-master\Windows-driver-samples-master\filesys\miniFilter\app\x64\Debug\passThrough.sys
-C:\Users\User\Documents\Windows-driver-samples-main\Windows-driver-samples-main\filesys\miniFilter\passThrough\passThrough\x64\Debug\passThrough.sys
